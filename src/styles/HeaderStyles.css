@@ -1,0 +1,36 @@
+.navigation-menu{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.navigation-menu li{
+    margin: 0px 40px;
+}
+
+.navigation-menu li a{
+    text-decoration: none;
+    font-weight: bolder;
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+}
+
+.active {
+   color:black !important;
+   font-weight: bold !important ; 
+}
+/*Mobile view*/
+.mobile-navigation{
+    list-style-type: none;
+}
+
+.mobile-navigation li{
+    margin-top: 20px;
+
+}
+
+.mobile-navigation li a{
+    text-decoration: none;
+    font-size: 1.5rem;
+}
