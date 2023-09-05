@@ -21,7 +21,6 @@ Follow the instructions below to get a copy of the frontend up and running on yo
 
 Before you begin, ensure you have the following software installed:
 
-- Node.js (Version 12 or higher)
 - npm (Node Package Manager) or yarn
 
 ### Installation
