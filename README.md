@@ -8,8 +8,6 @@ This App is based on REACT and Some Frontend Technologies Welcome to the fronten
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
 - [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -69,7 +67,6 @@ The Restaurant Website frontend provides the following key features:
 
 - Home Page: A welcoming landing page with information about the restaurant, specials, and events.
 - Menu Page: A menu showcasing the variety of dishes and beverages offered by the restaurant.
-- Reservation System: A user-friendly form to enable customers to make table reservations.
 - Contact Page: Contact information and a contact form for customers to get in touch with the restaurant.
 - Responsive Design: The frontend is designed to be mobile-friendly and responsive on various screen sizes.
 
@@ -82,23 +79,6 @@ The frontend is built using the following technologies:
 - CSS3: Stylesheet language for styling the web pages.
 - Bootstrap: CSS framework for responsive and mobile-first design.
 - Axios: A library to make HTTP requests to the backend API.
-
-## Project Structure
-
-The project follows a structured organization to keep the codebase maintainable and scalable. Here's an overview of the project structure:
-
-```
-├── public/               # Public assets (HTML, images, etc.)
-├── src/                  # Source code directory
-│   ├── components/       # Reusable React components
-│   ├── pages/            # Individual page components
-│   ├── services/         # API communication services (e.g., Axios)
-│   ├── App.js            # Main application component
-│   ├── index.js          # Entry point of the application
-│   └── ...               # Other configuration files and utilities
-├── package.json          # Project configuration and dependencies
-└── README.md             # This README file
-```
 
 ## Contributing
 
