@@ -43,21 +43,7 @@ npm install
 
 or
 
-```
-yarn install
-```
 
-4. Start the development server:
-
-```
-npm start
-```
-
-or
-
-```
-yarn start
-```
 
 This will launch the frontend application, and you can view it in your web browser at `http://localhost:3000`.
 
